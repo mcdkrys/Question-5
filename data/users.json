@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "userName":"John",
+        "displayName":"John",
+        "phone":"+905554443322",
+        "email":"example@example.com",
+        "userRole":"Guest",
+        "enabled":true
+    },
+    {
+        "id":2,
+        "userName":"Alex",
+        "displayName":"John",
+        "phone":"+905554443322",
+        "email":"example@example.com",
+        "userRole":"Admin",
+        "enabled":true
+    }
+]
